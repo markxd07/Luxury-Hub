@@ -4,7 +4,8 @@ local gamelist = {
     [2340432463] = "https://raw.githubusercontent.com/markxd07/Luxury-Hub/main/Last-Pirates", -- Check Last Pirates Map
     [3516018619] = "https://raw.githubusercontent.com/markxd07/Luxury-Hub/main/Anime-Story", -- Check Anime Story Map
     [1720936166] = "https://raw.githubusercontent.com/markxd07/Luxury-Hub/main/All-Star", -- Check All Star Map
-    [2655311011] = "https://raw.githubusercontent.com/markxd07/Luxury-Hub/main/Anime-Dimensions"
+    [2655311011] = "https://raw.githubusercontent.com/markxd07/Luxury-Hub/main/Anime-Dimensions", -- Check Anime Diemension 
+    [1511883870] = "https://raw.githubusercontent.com/markxd07/Luxury-Hub/main/Shindo-Life" -- Check Shindo Life Map
 }
 local checkgame = gamelist[game.gameId]
 if gamelist[game.gameId] then 
